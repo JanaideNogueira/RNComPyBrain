@@ -1,4 +1,4 @@
-# Redes Neurais utilizando PyBrain
+# Redes Neurais utilizando PyBrain - Janaide Nogueira
 
 from pybrain.datasets import SupervisedDataSet
 from pybrain.tools.shortcuts import buildNetwork
